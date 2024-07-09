@@ -1,4 +1,4 @@
 IP: N/A
-Mody: N/A
-Stan Servera: Brak Servera
-Stan Archiwizacji: 0%
+Mods: N/A
+Server Status: Not Exists
+Archivisation Status: 0%
