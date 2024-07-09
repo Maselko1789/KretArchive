@@ -1,1 +1,1 @@
-IP: N/A Mods: N/A Server Status: No Server Archivisation Status: 0%
+IP: N/A Mods: N/A Server Status: Server Archivisation Status: 20%
