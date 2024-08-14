@@ -1,1 +1,2 @@
-This is a repository about minecraft Create mod servers from series "Kret". There are 8+ servers (Kret 1 - 8 + others "Kret"s).
+Original mods have been archived.
+World/screenshots have been lost.
