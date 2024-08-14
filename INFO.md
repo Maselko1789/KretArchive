@@ -1,4 +1,2 @@
-IP: N/A
-Mods: N/A
-Server Status: No Server
+Original files have been lost. (screenshots/mods)
 Archivisation Status: 0%
