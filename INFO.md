@@ -1,1 +1,1 @@
-IP: N/A Mods: N/A Server Status: Server Archivisation Status: 20%
+Original files have been mostly lost. (mods/most of the screenshots) Archivisation Status: 20%
